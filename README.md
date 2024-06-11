@@ -2,8 +2,7 @@
 
 ## Curso Digital: Git
 
-### Salvando alterações no Git
-* sequência para enviar suas alterações no Visual Code até o GitHub
+### Sequência para enviar suas alterações no Visual Code até o GitHub
 * Faça sua alteração no código;
 * comando git add README.md;
 * comando commit -m "informa a alteração em inglês";
