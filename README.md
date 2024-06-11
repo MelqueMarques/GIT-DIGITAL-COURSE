@@ -1,4 +1,6 @@
-# Curso Digital: Git
+# Santander Coders 2024
 
-## Salvando alterações no Git
+## Curso Digital: Git
+
+### Salvando alterações no Git
 * comando git push
